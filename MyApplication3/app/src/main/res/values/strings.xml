@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bonsai Tree List</string>
+    <string name="ficus">Weeping Fig</string>
+    <string name="hackberry">Chinese Hackberry</string>
+    <string name="hornbeam">Korean Hornbeam</string>
+    <string name="maple">Japanese Maple</string>
+    <string name="quince">Chinese Quince</string>
+    <string name="zelkova">Japanese Elm</string>
+    <string name="txtFicus">Ficus Benjamina</string>
+    <string name="txtHackberry">Celtis Occidentalis</string>
+    <string name="txtHornbeam">Carpinus Turczaninowii</string>
+    <string name="txtMaple">Acer Palmatum</string>
+    <string name="txtQuince">Pseudocydonia Sinensis</string>
+    <string name="txtZelkova">Zelkova Serrata</string>
+</resources>
