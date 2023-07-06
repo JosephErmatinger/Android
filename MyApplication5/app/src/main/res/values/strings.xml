@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jim Crow Museum</string>
+    <string name="title_item_detail">Jim Crow Museum</string>
+    <string name="txtTitle1">Origins of Jim Crow</string>
+    <string name="exhibit1pic1">Turkey</string>
+    <string name="exhibit1pic2">Minstrel</string>
+    <string name="exhibit1Description">This exhibit is all about the origins of Jim Crow. This exhibit introduces you to topics such as segregation, minstrel shows, and lets you see who the original Jim Crow was.</string>
+    <string name="txtTitle2">Jim Crow Violence</string>
+    <string name="exhibit2pic1">Birth of a Nation</string>
+    <string name="exhibit2pic2">Woman of the Klan</string>
+    <string name="exhibit2Description">This exhibit is all about the violence that ensued due to the racism. Topics include lynching as social control, the brute caricature, KKK terrorism, and hostility against African Americans.</string>
+    <string name="txtTitle3">Jim Crow and Anti-Black Imagery</string>
+    <string name="exhibit3pic1">Aunt Jemima</string>
+    <string name="exhibit3pic2">Buggs Bunny Cartoon</string>
+    <string name="exhibit3Description">This exhibit is all about the anti-black imagery that was everywhere during the Jim Crow period. It appeared in everything including cartoons, games, toys, and everywhere from peoples front lawns to their kitchens and living rooms.</string>
+    <string name="txtTitle4">Battling Jim Crow Imagery</string>
+    <string name="exhibit4pic1">Serving This</string>
+    <string name="exhibit4pic2">Art as Resistance</string>
+    <string name="exhibit4Description">This exhibit is all about how African Americans fought back against Jim Crow imagery. Ways they resisted the negative imagery included using art to fight racism, using art as a discontent, using art as resistance, and how they used images as propaganda.</string>
+</resources>
