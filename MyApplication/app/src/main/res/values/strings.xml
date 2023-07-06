@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">USD-JPY Conversion Utility</string>
+    <string name="imageDescription">Bonsai Tree Forest</string>
+    <string name="radioButton1">Convert USD to JPY</string>
+    <string name="radioButton2">Convert JPY to USD</string>
+    <string name="textTitle">Bonsai Value Calculator</string>
+    <string name="textResult" />
+    <string name="textValue">Enter Bonsai Value</string>
+    <string name="convertButton">Convert Value</string>
+
+</resources>
