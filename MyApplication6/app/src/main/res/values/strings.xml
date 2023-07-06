@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MW3 Game Animation</string>
+    <string name="imgDescription">Game Image</string>
+    <string name="btnStart">Start Frame animation</string>
+    <string name="btnStop">Start Tween animation</string>
+
+</resources>

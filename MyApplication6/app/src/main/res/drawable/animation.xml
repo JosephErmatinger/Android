@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/game1" android:duration="100"/>
+    <item android:drawable="@drawable/game2" android:duration="100"/>
+    <item android:drawable="@drawable/game3" android:duration="100"/>
+    <item android:drawable="@drawable/game4" android:duration="100"/>
+    <item android:drawable="@drawable/game5" android:duration="100"/>
+    <item android:drawable="@drawable/game6" android:duration="100"/>
+    <item android:drawable="@drawable/game7" android:duration="100"/>
+    <item android:drawable="@drawable/game8" android:duration="100"/>
+    <item android:drawable="@drawable/game9" android:duration="100"/>
+    <item android:drawable="@drawable/game10" android:duration="100"/>
+    <item android:drawable="@drawable/game11" android:duration="100"/>
+    <item android:drawable="@drawable/game12" android:duration="100"/>
+    <item android:drawable="@drawable/game13" android:duration="100"/>
+    <item android:drawable="@drawable/game14" android:duration="100"/>
+    <item android:drawable="@drawable/game15" android:duration="100"/>
+    <item android:drawable="@drawable/game16" android:duration="100"/>
+    <item android:drawable="@drawable/game17" android:duration="100"/>
+    <item android:drawable="@drawable/game18" android:duration="100"/>
+    <item android:drawable="@drawable/game19" android:duration="100"/>
+    <item android:drawable="@drawable/game20" android:duration="100"/>
+    <item android:drawable="@drawable/game21" android:duration="100"/>
+    <item android:drawable="@drawable/game22" android:duration="100"/>
+    <item android:drawable="@drawable/game23" android:duration="100"/>
+    <item android:drawable="@drawable/game24" android:duration="100"/>
+    <item android:drawable="@drawable/game25" android:duration="100"/>
+    <item android:drawable="@drawable/game26" android:duration="100"/>
+    <item android:drawable="@drawable/game27" android:duration="100"/>
+    <item android:drawable="@drawable/game28" android:duration="100"/>
+    <item android:drawable="@drawable/game29" android:duration="100"/>
+    <item android:drawable="@drawable/game30" android:duration="100"/>
+</animation-list>
