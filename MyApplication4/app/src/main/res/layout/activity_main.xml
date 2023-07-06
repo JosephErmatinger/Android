@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgPuppy"
+        android:layout_width="560dp"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/imgPuppy"
+        android:scaleType="center"
+        android:src="@drawable/puppy" />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TableRow>
+
+            <View android:layout_height="60dp" />
+
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="wrap_content"
+                android:background="#C800BCD4"
+                android:gravity="center_horizontal|center_vertical"
+                android:padding="20dp"
+                android:text="@string/txtTitle"
+                android:textColor="#02796B"
+                android:textColorHighlight="#00EB0C0C"
+                android:textSize="35sp"
+                android:textStyle="bold"
+                android:typeface="serif" />
+        </TableRow>
+
+        <TableRow>
+
+            <View android:layout_height="60dp" />
+
+            <TextView
+                android:id="@+id/txtDescription"
+                android:layout_width="wrap_content"
+                android:layout_gravity="start"
+                android:background="#7000BCD4"
+                android:gravity="center_horizontal|center_vertical"
+                android:padding="5dp"
+                android:text="@string/txtDescription"
+                android:textColor="#017C71"
+                android:textSize="24sp"
+                android:textStyle="bold|italic" />
+        </TableRow>
+
+        <TableRow
+            android:layout_height="128dp"
+            android:background="#7000BCD4">
+
+            <View android:layout_height="128dp" />
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal">
+
+                <RadioButton
+                    android:id="@+id/radioButton1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="@string/radioButton1"
+                    android:textColor="#3F51B5"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <RadioButton
+                    android:id="@+id/radioButton2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/radioButton2"
+                    android:textColor="#3F51B5"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <RadioButton
+                    android:id="@+id/radioButton3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/radioButton3"
+                    android:textColor="#3F51B5"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <RadioButton
+                    android:id="@+id/radioButton4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/radioButton4"
+                    android:textColor="#3F51B5"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </RadioGroup>
+        </TableRow>
+
+        <TableRow>
+
+            <View android:layout_height="60dp" />
+
+            <Button
+                android:id="@+id/btnDate"
+                android:layout_width="wrap_content"
+                android:background="#27B3B3"
+                android:gravity="center_horizontal|center_vertical"
+                android:padding="15dp"
+                android:text="@string/btnDate"
+                android:textSize="30sp" />
+        </TableRow>
+
+        <TableRow android:background="#7000BCD4">
+
+            <View android:layout_height="60dp" />
+
+            <TextView
+                android:id="@+id/txtResult"
+                android:layout_gravity="center"
+                android:gravity="center_horizontal|center_vertical"
+                android:padding="15dp"
+                android:textColor="#062DF0"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <View android:layout_height="60dp" />
+
+            <ImageView
+                android:id="@+id/imgPuppy2"
+                android:background="#7000BCD4"
+                android:contentDescription="@string/imgPuppy"
+                android:scaleType="center"
+                app:srcCompat="@drawable/puppy2" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

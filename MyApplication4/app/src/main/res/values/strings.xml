@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Double Dog Dare You, Dog Walkers</string>
+    <string name="imgPuppy">Adorable puppy being walked</string>
+    <string name="txtTitle">Double Dog Dare You, Dog Walkers</string>
+    <string name="txtDescription">Double Dog Dare You Dog Walkers is located in beautiful Grand Rapids, Michigan. We love walking dogs! We are here to keep your pets happy and healthy. Select the number of dogs you would like walked as well as the date for your appointment below.</string>
+    <string name="radioButton4">4 dogs ($60)</string>
+    <string name="radioButton3">3 dogs ($45)</string>
+    <string name="radioButton2">2 dogs ($30)</string>
+    <string name="radioButton1">1 dog ($15)</string>
+    <string name="btnDate">Select the date for your appointment</string>
+</resources>
